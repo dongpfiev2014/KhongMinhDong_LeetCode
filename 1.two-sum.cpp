@@ -10,7 +10,7 @@ class Solution
 public:
     vector<int> twoSum(vector<int> &nums, int target)
     {
-        sida
+        sida vcl haha
     }
 };
 // @lc code=end
